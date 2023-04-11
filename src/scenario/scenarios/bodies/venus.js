@@ -6,7 +6,7 @@ export const venus = {
 	name: 'venus',
 	mass: 4.868e24,
 	radius: 6051,
-	color: '#fda700',
+	color: '#cd0e77',
 	map: './assets/img/venusmap.jpg',
 	orbit: {
 		base: {
