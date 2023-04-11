@@ -6,7 +6,7 @@ export const uranus = {
 	name: 'uranus',
 	mass: 8.6810e25,
 	radius: 25559,
-	color: '#99ccff',
+	color: '#11fcf7',
 	map: './assets/img/uranusmap.jpg',
 	orbit: {
 		base: {

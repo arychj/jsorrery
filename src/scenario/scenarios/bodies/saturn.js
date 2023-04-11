@@ -6,7 +6,7 @@ export const saturn = {
 	name: 'saturn',
 	mass: 5.6846e26,
 	radius: 58232,
-	color: '#ffcc99',
+	color: '#cd0e77',
 	map: './assets/img/saturnmap.jpg',
 	tilt: 26.7,
 	ring: {

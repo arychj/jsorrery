@@ -6,7 +6,7 @@ export const neptune = {
 	name: 'neptune',
 	mass: 1.0243e26,
 	radius: 24764,
-	color: '#3299ff',
+	color: '#cd0e77',
 	map: './assets/img/neptunemap.jpg',
 	orbit: {
 		base: {

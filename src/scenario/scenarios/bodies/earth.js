@@ -20,7 +20,7 @@ export const earth = {
 	name: 'earth',
 	mass: 5.9736e24,
 	radius: 3443.9307 * NM_TO_KM,
-	color: '#1F7CDA',
+	color: '#11fcf7',
 	//voir https://visibleearth.nasa.gov/view_cat.php?categoryID=1484 pour changer
 	map: './assets/img/earthmap1k_clouds.jpg',
 	material: {
