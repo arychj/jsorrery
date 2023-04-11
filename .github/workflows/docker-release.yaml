@@ -3,7 +3,8 @@ name: Docker release
 on:
   push:
     branches:
-      - main
+      - master
+      - eo/docker
 
 jobs:
   docker-publish:
