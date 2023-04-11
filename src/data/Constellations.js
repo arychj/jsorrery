@@ -1,4 +1,5 @@
 export default {
+/*
 	ZubenElschemali: [
 		'ZubenElgenubi',
 		'Brachium',
@@ -224,5 +225,5 @@ export default {
 	theta1Sag: [
 		'7336',
 	],
-
+*/
 };
