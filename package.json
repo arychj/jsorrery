@@ -11,7 +11,7 @@
     "start": "node server.js",
     "lint": "eslint src"
   },
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "http://la-grange.ca",
   "author": {
     "name": "Martin Vézina",
