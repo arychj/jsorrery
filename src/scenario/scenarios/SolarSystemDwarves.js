@@ -14,6 +14,7 @@ import { ceres } from './bodies/ceres';
 import { eris } from './bodies/eris';
 import { makemake } from './bodies/makemake';
 import { haumea } from './bodies/haumea';
+import { eros } from './bodies/eros';
 
 export default {
 	name: 'SolarSystemDwarves',
@@ -34,6 +35,7 @@ export default {
 		ceres,
 		makemake,
 		haumea,
+		eros,
 	],
 	secondsPerTick: { min: 3600 * 5, max: 3600 * 25, initial: 3600 * 10 },
 	defaultGuiSettings: { 
